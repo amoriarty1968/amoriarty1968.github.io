@@ -1,0 +1,5 @@
+config t
+interface fa 2/0
+no shut
+desc - changed interface state
+exit
